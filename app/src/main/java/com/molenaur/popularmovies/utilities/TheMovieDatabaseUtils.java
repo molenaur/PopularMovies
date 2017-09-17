@@ -10,6 +10,7 @@ public class TheMovieDatabaseUtils {
     private final static String POPULAR_PATH = "popular";
     private final static String TOP_RATED_PATH = "top_rated";
     private final static String PARAM_API_KEY = "api_key";
+    // You must supply your own api key here for The Movie Database
     private final static String API_KEY = "";
     private final static String PARAM_PAGE = "page";
 
